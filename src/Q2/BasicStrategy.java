@@ -33,42 +33,67 @@ public class BasicStrategy implements Strategy {
     }
 
     @Override
-    public Bid chooseBid(Bid b, Hand h, boolean cheat) {
+    public Bid chooseBid(Bid b, Hand h, boolean cheat) 
+    {
         Random random = new Random();
         Bid bid;
 
-        if (cheat) {
+        if (cheat) 
+        {
             Hand hand = new Hand();
+            /*
+            Find a way to allow a player to play more than one card at a time. 
+            maybe iterate over the determined card the number of times that it 
+            has that card?
+            */
 
             Card card = h.remove(random.nextInt(h.handSize()));
             hand.add(card);
             bid = new Bid(hand, b.getRank().getNext());
-        } else {
+        } 
+        else 
+        {
             Hand hand = new Hand();
             Card.Rank save = Card.Rank.TWO;        //next one
-            for (Card.Rank rank : Card.Rank.values()) {
+            
+            for (Card.Rank rank : Card.Rank.values()) 
+            {
                 boolean take = false;
 
                 if (b.getRank().getValue() == 13
                         || (b.getRank().ordinal() >= rank.ordinal()
-                        || h.countRank(rank) <= 0)) {
+                        || h.countRank(rank) <= 0)) 
+                {
                     if (h.countRank(rank) > 0
-                            && b.getRank().getValue() == 13) {
-
-                        if (rank.getValue() == 2 || rank.getValue() == 13) {
+                            && b.getRank().getValue() == 13) 
+                    {
+                        if (rank.getValue() == 2 || rank.getValue() == 13) 
+                        {
                             take = true;
                         }
-                    } else {
+                    } 
+                    else 
+                    {
                         take = true;
                     }
                 }
-                if (!take) {
-                } else {
+                if (!take) 
+                {
+                    
+                } 
+                else 
+                {
                     save = rank;
-                    for (int i = 0; i < h.handSize(); i++) {
+                    for (int i = 0; i < h.handSize(); i++) 
+                    {
                         Card temporary = h.getCard(i);
-                        if (temporary.getRank() != rank) {
-                        } else {
+                        
+                        if (temporary.getRank() != rank) 
+                        {
+                            
+                        } 
+                        else 
+                        {
                             hand.add(temporary);
                         }
                     }
