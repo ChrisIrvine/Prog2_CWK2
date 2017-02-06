@@ -37,7 +37,15 @@ public class BasicCheat implements CardGame
     public boolean playTurn()
     {
         //lastBid=currentBid;
-        //Ask player for a play,
+        //Ask player for a play
+        
+        List<Card> h = ((BasicPlayer)players[currentPlayer]).getHand();
+        h.sort(null);
+        
+        System.out.println("Player Hand = ");
+        for(Card c : h)
+            System.out.print(c + " ");
+        System.out.println();
         System.out.println("current bid = "+currentBid);
         currentBid=players[currentPlayer].playHand(currentBid);
         
@@ -65,18 +73,20 @@ public class BasicCheat implements CardGame
                         players[currentPlayer].addHand(discards);
                         System.out.println("Player cheats!");
                         System.out.println("Adding cards to player "+
-                                (currentPlayer+1)+players[currentPlayer].toString());
+                                (currentPlayer+1));
                     }
                     else
                     {
                         //CHEAT CALLED INCORRECTLY
                         //Give cards to caller i who is new currentPlayer
                         System.out.println("Player Honest");
-                        currentPlayer=i;
+                        
                         players[currentPlayer].addHand(discards);
                         System.out.println("Adding cards to player "+
-                                (currentPlayer+1)+players[currentPlayer].toString());
+                                (currentPlayer+1));
                     }
+                    
+                    currentPlayer=i;
                     //If cheat is called, current bid reset to an empty bid with
                     //rank two whatever the outcome
                     currentBid=new Bid();
@@ -88,9 +98,9 @@ public class BasicCheat implements CardGame
         if(!cheat)
         {
             //Go to the next player       
-            System.out.println("No Cheat Called");   
+            System.out.println("No Cheat Called");        
+            currentPlayer=(currentPlayer+1)%nosPlayers;   
         }
-        currentPlayer=(currentPlayer+1)%nosPlayers;
         return true;
     }
     

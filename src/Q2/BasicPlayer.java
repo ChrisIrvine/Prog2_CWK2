@@ -7,6 +7,7 @@ package Q2;
 
 import Q1.Card;
 import Q1.Hand;
+import java.util.List;
 
 /**
  * @author ruw12gbu, 100036248
@@ -66,5 +67,10 @@ public class BasicPlayer implements Player
     public boolean callCheat(Bid b)
     {
         return strategy.callCheat(playerHand, b);
+    }
+    
+    public List<Card> getHand()
+    {
+        return this.playerHand.getCards();
     }
 }

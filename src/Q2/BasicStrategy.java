@@ -14,95 +14,75 @@ import java.util.Random;
  *
  * @author ruw12gbu, 100036248
  */
-public class BasicStrategy implements Strategy
-{
+public class BasicStrategy implements Strategy {
+
     @Override
-    public boolean cheat(Bid bidCard, Hand playerHand)
-    {
+    public boolean cheat(Bid bidCard, Hand playerHand) {
         int count = playerHand.countRank(bidCard.getRank());
-        
-        if(count == 0)
-        {
-            count = playerHand.countRank(bidCard.getRank().getNext());
-            if(count == 0)
-            {
-                return true;
-            }
+
+        if (count == 0) {
+            return true;
         }
-        
+
+        count = playerHand.countRank(bidCard.getRank().getNext());
+        if (count == 0) {
+            return true;
+        }
+
         return false;
     }
-    
+
     @Override
-    public Bid chooseBid(Bid bidCard, Hand playerHand, boolean cheat)
-    {
+    public Bid chooseBid(Bid b, Hand h, boolean cheat) {
         Random random = new Random();
-        Bid bidC = new Bid();
-        
-        if (cheat) 
-        {             
+        Bid bid;
+
+        if (cheat) {
             Hand hand = new Hand();
-            Card card = 
-                    playerHand.remove(random.nextInt(playerHand.handSize()));
+
+            Card card = h.remove(random.nextInt(h.handSize()));
             hand.add(card);
-            bidC = new Bid(hand, bidCard.getRank().getNext());
-        } 
-        else 
-        {
+            bid = new Bid(hand, b.getRank().getNext());
+        } else {
             Hand hand = new Hand();
-            Card.Rank save = Card.Rank.TWO;
-            
-            for (Card.Rank rank : Card.Rank.values()) 
-            {
+            Card.Rank save = Card.Rank.TWO;        //next one
+            for (Card.Rank rank : Card.Rank.values()) {
                 boolean take = false;
 
-                if (bidCard.getRank().getValue() == 13
-                    || (bidCard.getRank().ordinal() >= rank.ordinal() 
-                    || playerHand.countRank(rank) <= 0))
-                    if (playerHand.countRank(rank) > 0
-                        && bidCard.getRank().getValue() == 13) 
-                    { 
-                        if (rank.getValue() == 2 || rank.getValue() == 13) 
-                        {
+                if (b.getRank().getValue() == 13
+                        || (b.getRank().ordinal() >= rank.ordinal()
+                        || h.countRank(rank) <= 0)) {
+                    if (h.countRank(rank) > 0
+                            && b.getRank().getValue() == 13) {
+
+                        if (rank.getValue() == 2 || rank.getValue() == 13) {
                             take = true;
                         }
-                    } 
-                    else 
-                    {
+                    } else {
                         take = true;
                     }
-                if (!take) 
-                {
-                    //Do nothing
-                } 
-                else 
-                {
+                }
+                if (!take) {
+                } else {
                     save = rank;
-                    
-                    for (int i = 0; i < playerHand.handSize(); i++)
-                    {
-                        Card temporary = playerHand.getCard(i);
-                        if (temporary.getRank() != rank) 
-                        {
-                            //Do nothing
-                        }
-                        else 
-                        {
+                    for (int i = 0; i < h.handSize(); i++) {
+                        Card temporary = h.getCard(i);
+                        if (temporary.getRank() != rank) {
+                        } else {
                             hand.add(temporary);
                         }
                     }
                     break;
                 }
             }
-            bidC = new Bid(hand, save);
-            playerHand.remove(hand);
+            bid = new Bid(hand, save);
+            h.remove(hand);
         }
-        return bidC;
+        return bid;
     }
-        
+
     @Override
-    public boolean callCheat(Hand playerHand, Bid bidCard)
-    {
+    public boolean callCheat(Hand playerHand, Bid bidCard) {
         int player = playerHand.countRank(bidCard.getRank());
         int bid = bidCard.getCount();
 
