@@ -90,6 +90,7 @@ public class BasicStrategy implements Strategy {
                 cheatRank = prevBid.getRank().getNext();
             }
             
+            playerHand.remove(cheatHand);
             //Bid Object to hold the cheatBid
             bid = new Bid(cheatHand, cheatRank);
         }
@@ -139,6 +140,7 @@ public class BasicStrategy implements Strategy {
             else
                 honestRank = prevBid.getRank();
             
+            playerHand.remove(honestHand);
             bid = new Bid(honestHand, honestRank);
         }
         return bid;        
