@@ -54,6 +54,7 @@ public class BasicPlayer implements Player
     public Bid playHand(Bid b)
     {
         boolean isCheat = strategy.cheat(b, playerHand);
+        System.out.println("Output of cheat() is " + isCheat);
         return strategy.chooseBid(b, playerHand, isCheat);
     }
     

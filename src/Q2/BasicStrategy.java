@@ -17,19 +17,29 @@ import java.util.Random;
 public class BasicStrategy implements Strategy {
 
     @Override
-    public boolean cheat(Bid bidCard, Hand playerHand) {
+    public boolean cheat(Bid bidCard, Hand playerHand) 
+    {
         int count = playerHand.countRank(bidCard.getRank());
+        boolean cheat;
+        //testing and debugging
+        int totalCount = playerHand.countRank(bidCard.getRank()) + playerHand.countRank(bidCard.getRank().getNext());
 
-        if (count == 0) {
-            return true;
+        if (count != 0) 
+        {
+            cheat = false;
+        }
+        else if ((playerHand.countRank(bidCard.getRank().getNext()) != 0))
+        {
+            cheat = false;
+        }
+        else
+        {
+            cheat = true;
         }
 
-        count = playerHand.countRank(bidCard.getRank().getNext());
-        if (count == 0) {
-            return true;
-        }
-
-        return false;
+        //testing and debugging
+        System.out.println("Number of honest cards: " + totalCount);
+        return cheat;
     }
 
     @Override
@@ -41,7 +51,7 @@ public class BasicStrategy implements Strategy {
         Bid bid = new Bid();
 
         //If I have to cheat...
-        if (isCheat) 
+        if (isCheat == true) 
         {
             //Create a hand object to hold the randomly selected Cheat Card
             Hand bidHand = new Hand();
@@ -143,6 +153,7 @@ public class BasicStrategy implements Strategy {
             //remove all cards that were selected to bid from the players hand
             playerHand.remove(bidHand);
         }
+        System.out.println("Output of chooseBid() is: " + bid.toString());
         //return the bid object
         return bid;
     }
