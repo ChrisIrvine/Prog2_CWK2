@@ -83,9 +83,9 @@ public class BasicCheat implements CardGame
                         //Give cards to caller i who is new currentPlayer
                         System.out.println("Player Honest");
                         
-                        players[currentPlayer].addHand(discards);
+                        players[i].addHand(discards);
                         System.out.println("Adding cards to player "+
-                                (currentPlayer+1));
+                                (i+1));
                     }
                     
                     currentPlayer=i;

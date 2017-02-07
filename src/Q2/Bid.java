@@ -13,6 +13,7 @@ public class Bid
         h=new Hand();
         r=Card.Rank.TWO; 
     }
+    
     public Bid(Hand hand,Card.Rank bidRank)
     {
         h=hand;

@@ -146,7 +146,7 @@ public class Card implements Comparable<Card>, Serializable
      * @param r - rank of the card, between TWO & ACE (ACE High)
      * @param s - suit of the card, HEARTS, CLUBS, DIAMONDS, SPADES
      */
-    Card(Rank r, Suit s)
+    public Card(Rank r, Suit s)
     {
         this.rank = r;
         this.suit = s;
