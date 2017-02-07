@@ -39,12 +39,14 @@ public class BasicCheat implements CardGame
         //lastBid=currentBid;
         //Ask player for a play
         
+        //Print out the current players hand
         List<Card> h = ((BasicPlayer)players[currentPlayer]).getHand();
         h.sort(null);
         
-        System.out.println("Player Hand = ");
-        for(Card c : h)
+        System.out.println("Player " + (currentPlayer+1) + " Hand = ");
+        for (Card c : h) {
             System.out.print(c + " ");
+        }
         System.out.println();
         System.out.println("current bid = "+currentBid);
         currentBid=players[currentPlayer].playHand(currentBid);
@@ -137,7 +139,7 @@ public class BasicCheat implements CardGame
         //Initialise Discards
         discards=new Hand();
         
-        //Chose first player
+        //Chose first player (shouldnt current player be that with the TWO CLUBS)
         currentPlayer=0;
         currentBid=new Bid();
         currentBid.setRank(Card.Rank.TWO);
@@ -146,6 +148,7 @@ public class BasicCheat implements CardGame
     public void playGame()
     {
         initialise();
+        //Turn counter
         int c=0;
         Scanner in = new Scanner(System.in);
         boolean finished=false;

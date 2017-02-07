@@ -53,8 +53,8 @@ public class BasicPlayer implements Player
     @Override
     public Bid playHand(Bid b)
     {
-        boolean cheat = strategy.cheat(b, playerHand);
-        return strategy.chooseBid(b, playerHand, cheat);
+        boolean isCheat = strategy.cheat(b, playerHand);
+        return strategy.chooseBid(b, playerHand, isCheat);
     }
     
     @Override
