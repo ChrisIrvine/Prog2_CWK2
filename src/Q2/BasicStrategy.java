@@ -33,81 +33,123 @@ public class BasicStrategy implements Strategy {
     }
 
     @Override
-    public Bid chooseBid(Bid b, Hand h, boolean cheat) 
+    public Bid chooseBid(Bid bidCard, Hand playerHand, boolean isCheat) 
     {
+        //Create a new Random object
         Random random = new Random();
-        Bid bid;
+        //Create a new Bid Object
+        Bid bid = new Bid();
 
-        if (cheat) 
+        //If I have to cheat...
+        if (isCheat) 
         {
-            Hand hand = new Hand();
-            /*
-            Find a way to allow a player to play more than one card at a time. 
-            maybe iterate over the determined card the number of times that it 
-            has that card?
-            */
-
-            Card card = h.remove(random.nextInt(h.handSize()));
-            hand.add(card);
-            bid = new Bid(hand, b.getRank().getNext());
-        } 
+            //Create a hand object to hold the randomly selected Cheat Card
+            Hand bidHand = new Hand();
+            
+            //Card Object to hold the randomly selected Cheat Card that is 
+            //removed from the players hand.
+            Card cheatCard = playerHand.remove(random.nextInt(playerHand.handSize()));
+            
+            //add the removed card to the bidHand
+            bidHand.add(cheatCard);
+            
+            //Create a new bid using the randomly selected card and a false 
+            //Rank (the next rank from bidCard).
+            bid = new Bid(bidHand, bidCard.getRank().getNext());
+        }
+        //If I don't have to cheat and can play honestly...
         else 
         {
-            Hand hand = new Hand();
+            //Create a Hand Object to hold the cards I am playing
+            Hand bidHand = new Hand();
+            
+            //Holder Object whilst the program iterates over the ranks
             Card.Rank save = Card.Rank.TWO;        //next one
             
-            for (Card.Rank rank : Card.Rank.values()) 
+            //For every rank in all the ranks do...
+            for (Card.Rank currentRank : Card.Rank.values())
             {
+                //What does this do??? Does it tell the program which card is 
+                //suitable to play
                 boolean take = false;
 
-                if (b.getRank().getValue() == 13
-                        || (b.getRank().ordinal() >= rank.ordinal()
-                        || h.countRank(rank) <= 0)) 
+                /* IF bidCard is an ACE                                       OR
+                 * IF bidCard position on enum greater than (or equal to)
+                 * the current rank being examined                            OR
+                 * IF playerHand has no cards of the current rank being examined
+                 */
+                if (bidCard.getRank().ordinal() == 13
+                        || (bidCard.getRank().ordinal() >= currentRank.ordinal()
+                        || playerHand.countRank(currentRank) <= 0)) 
                 {
-                    if (h.countRank(rank) > 0
-                            && b.getRank().getValue() == 13) 
+                    //then do...
+                    
+                    /* IF player has more than 1 of the currentRanks in hand  
+                     *                                                       AND
+                     * IF the bidCard is an ACE
+                     */
+                    if (playerHand.countRank(currentRank) > 0
+                            && bidCard.getRank().ordinal() == 13) 
                     {
-                        if (rank.getValue() == 2 || rank.getValue() == 13) 
+                        //then do...
+                        
+                        /* IF currentRank is a TWO                            OR
+                         * IF currentRank is an ACE
+                         */
+                        if (currentRank.ordinal() == 1 
+                                || currentRank.ordinal() == 13) 
                         {
+                            //Tell the program to take the card
                             take = true;
                         }
-                    } 
+                    }
+                    /* If there is not more than one of the currentRank in hand
+                     * or if the bidCard is not an ace.
+                     */
                     else 
                     {
+                        //Tell the program to take the card
                         take = true;
                     }
                 }
-                if (!take) 
+                //Check to see IF take == false
+                if (take == false) 
                 {
-                    
+                    //If its false then do nothing
+                    //Can we just check for take == true instead?
                 } 
-                else 
+                //IF take == true
+                else
                 {
-                    save = rank;
-                    for (int i = 0; i < h.handSize(); i++) 
+                    //overwrite the holder variable with the current rank
+                    save = currentRank;
+                    
+                    //Iterate over the players hand
+                    for (int i = 0; i < playerHand.handSize(); i++) 
                     {
-                        Card temporary = h.getCard(i);
-                        
-                        if (temporary.getRank() != rank) 
+                        //IF the selected card equals the currentRank
+                        if (playerHand.getCard(i).getRank() == currentRank) 
                         {
-                            
+                            //Then add the selected card to bidHand
+                            bidHand.add(playerHand.getCard(i));
                         } 
-                        else 
-                        {
-                            hand.add(temporary);
-                        }
                     }
+                    //do we need this break here?
                     break;
                 }
             }
-            bid = new Bid(hand, save);
-            h.remove(hand);
+            //New bid using the currentRank and bidHand
+            bid = new Bid(bidHand, save);
+            //remove all cards that were selected to bid from the players hand
+            playerHand.remove(bidHand);
         }
+        //return the bid object
         return bid;
     }
 
     @Override
-    public boolean callCheat(Hand playerHand, Bid bidCard) {
+    public boolean callCheat(Hand playerHand, Bid bidCard) 
+    {
         int player = playerHand.countRank(bidCard.getRank());
         int bid = bidCard.getCount();
 
