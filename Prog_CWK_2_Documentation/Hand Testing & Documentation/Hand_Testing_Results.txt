@@ -1,0 +1,169 @@
+Shuffled Deck: 
+NINE HEARTS
+TEN HEARTS
+THREE SPADES
+JACK DIAMONDS
+FOUR HEARTS
+TEN DIAMONDS
+QUEEN CLUBS
+NINE SPADES
+SIX SPADES
+SIX DIAMONDS
+SEVEN HEARTS
+KING HEARTS
+JACK CLUBS
+FIVE DIAMONDS
+FIVE HEARTS
+EIGHT DIAMONDS
+FOUR DIAMONDS
+TWO SPADES
+TWO CLUBS
+TWO DIAMONDS
+SEVEN DIAMONDS
+QUEEN HEARTS
+QUEEN DIAMONDS
+TWO HEARTS
+SEVEN SPADES
+SEVEN CLUBS
+NINE DIAMONDS
+ACE DIAMONDS
+SIX CLUBS
+TEN SPADES
+TEN CLUBS
+QUEEN SPADES
+KING SPADES
+THREE DIAMONDS
+FIVE CLUBS
+THREE CLUBS
+FOUR CLUBS
+EIGHT SPADES
+KING DIAMONDS
+NINE CLUBS
+FOUR SPADES
+ACE CLUBS
+JACK HEARTS
+EIGHT HEARTS
+EIGHT CLUBS
+ACE SPADES
+SIX HEARTS
+JACK SPADES
+ACE HEARTS
+FIVE SPADES
+KING CLUBS
+THREE HEARTS
+-------------------------------------------------
+Creating an Array of Card Objects...
+
+Cards in cardArray: 
+
+NINE HEARTS
+TEN HEARTS
+THREE SPADES
+JACK DIAMONDS
+FOUR HEARTS
+-------------------------------------------------
+Testing the constructor methods... 
+
+Hand One has 0 cards.
+
+The Cards in Hand Two are: 
+NINE HEARTS
+TEN HEARTS
+THREE SPADES
+JACK DIAMONDS
+FOUR HEARTS
+
+
+The Cards in Hand Three are: 
+NINE HEARTS
+TEN HEARTS
+THREE SPADES
+JACK DIAMONDS
+FOUR HEARTS
+
+-------------------------------------------------
+Testing the add methods...
+
+Cards in Hand One: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+Cards in Hand Two: [SEVEN HEARTS, KING HEARTS, JACK CLUBS, FIVE DIAMONDS, FIVE HEARTS]
+Cards in Hand Three: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+
+-------------------------------------------------
+Testing the remove methods...
+
+Cards in handOne: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS, ACE SPADES]
+ACE SPADES successfully removed from handOne.
+Cards in handOne: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+
+Cards in handOne: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS, ACE SPADES, EIGHT DIAMONDS, THREE CLUBS]
+Cards in handTwo: [ACE SPADES, EIGHT DIAMONDS, THREE CLUBS]
+[ACE SPADES, EIGHT DIAMONDS, THREE CLUBS] sucessfully removed from handOne
+Cards in handOne: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+
+Cards in handThree: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+Cards in handThree: [TEN DIAMONDS, QUEEN CLUBS, NINE SPADES, SIX DIAMONDS]
+-------------------------------------------------
+Testing the sort methods...
+
+handOne sorted into Ascending Order: [SIX DIAMONDS, SIX SPADES, NINE SPADES, TEN DIAMONDS, QUEEN CLUBS]
+handOne sorted into Descending Order: [QUEEN CLUBS, TEN DIAMONDS, NINE SPADES, SIX SPADES, SIX DIAMONDS]
+
+Check that Suit Order is preserved...
+
+Cards in handTwo: [ACE SPADES, ACE DIAMONDS, ACE HEARTS, ACE CLUBS, FOUR HEARTS]
+handTwo sorted into Ascending Order: [FOUR HEARTS, ACE CLUBS, ACE HEARTS, ACE DIAMONDS, ACE SPADES]
+handTwo sorted into Descending Order: [ACE SPADES, ACE DIAMONDS, ACE HEARTS, ACE CLUBS, FOUR HEARTS]
+-------------------------------------------------
+Testing the countSuit & countRank methods...
+
+Cards in handOne: [SEVEN CLUBS, FIVE HEARTS, SIX SPADES, FOUR DIAMONDS, TEN DIAMONDS, THREE CLUBS, QUEEN SPADES, JACK CLUBS, SEVEN DIAMONDS, ACE SPADES]
+Number of...
+CLUBS : 3
+DIAMONDS : 3
+HEARTS : 1
+SPADES : 3
+... in handOne
+
+Number of...
+TWOs : 0
+THREEs : 1
+FOURs : 1
+FIVEs : 1
+SIXs : 1
+SEVENs : 2
+EIGHTs : 0
+NINEs : 0
+TENs : 1
+JACKs : 1
+QUEENs : 1
+KINGs : 0
+ACEs : 1
+.. in handOne
+-------------------------------------------------
+Testing the handValue method...
+
+The total value of the ranks in handOne is: 73
+-------------------------------------------------
+Testing the toString methods...
+
+Cards in handOne: 
+SEVEN CLUBS
+FIVE HEARTS
+SIX SPADES
+FOUR DIAMONDS
+TEN DIAMONDS
+THREE CLUBS
+QUEEN SPADES
+JACK CLUBS
+SEVEN DIAMONDS
+ACE SPADES
+
+-------------------------------------------------
+Testing the isFlush & isStraight methods...
+
+
+Cards in handTwo: [TWO DIAMONDS, THREE DIAMONDS, FOUR DIAMONDS, FIVE DIAMONDS, SIX DIAMONDS]
+handTwo contains a Flush.
+handOne does not contain a Flush.
+handTwo contains a Straight.
+handOne does not contain a Straight.

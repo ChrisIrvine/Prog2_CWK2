@@ -50,8 +50,19 @@ public interface Player
     boolean callCheat(Bid b);
     
     /**
-     * 
+     * Decides who goes first in the game.
      * @return 
      */
     boolean whosFirst();
+    
+    /**
+     * Returns a string for printing of the players hand
+     * @return 
+     */
+    String printHand();
+    
+    /**
+     * Sorts the players hand into Ascending Order.
+     */
+    void sortedHand();
 }

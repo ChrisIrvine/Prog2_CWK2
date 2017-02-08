@@ -1,31 +1,32 @@
 /*
- * Author:      ruw12gbu, 100036248
- * 
- * Description: This class creates a LinkedList of Card Objects, similar to 
- *              Deck.java, excepts that it has multiple constructors. You can 
- *              either have an empty hand, a hand that takes a collection of 
- *              cards or a hand that takes the cards from another Hand Object.
- *              Additionally, there are three add methods; one to add a single 
- *              card at a time, one to add a Collection typed to Card and one to
- *              add the Cards from another Hand Object. Similarly, there are 
- *              three remove methods; one to remove a single card from a Hand,
- *              one to remove a Collection of cards from a Hand and one to 
- *              remove all Cards from a hand. Methods also exist to check if 
- *              there is a Flush or Straight, get the total value of the cards
- *              in the hand and to sort the hand into Ascending or Descending 
- *              order. Finally there are some additional methods that allow for
- *              the quick clearing of hands, toStrings to print the hands out 
- *              and to count the number of each Suit/Rank in the hand. 
- *
- * Version:     1.0 - Created
- *              1.1 - sort methods & other bugs fixed
- *              1.2 - Tested and refined from testing
- *              1.3 - Comments refined
+ * Hand class for package Q1. This class is to hold methods to do the following:
+ * 1. Contain three constructors, one empty, one taking an array and one taking
+ *      another hand object.
+ * 2. Serializable with serializationID 102
+ * 3. Count the number of each rank and suit in the hand, to be displayed in as
+ *      a histogram (work in progress).
+ * 4. Store the total value of the cards in the hand. (work in progress?)
+ * 5. Have three add methods, one for a single card, one for a Collection typed 
+ *      to Card and one for another Hand Object.
+ * 6. Have three remove methods, one for a single card, one for all the cards in
+ *      the hand and one for a specific position in the Hand Object. First two
+ *      should return a boolean and the last should return the removed card.
+ * 7. Should be Iterable, implementing Iterator
+ * 8. sortAscending method (using Card compareTo)
+ * 9. sortDescending method (using CompareDescending)
+ * 10. countSuit that takes a suit argument and checks the card for Cards of 
+ *      that Suit.
+ * 11. countRank that takes a rank argument and checks the card for Cards of 
+ *      that Rank.
+ * 12. handValue method that returns the total value of the ranks
+ * 13. toString to display the card
+ * 14. isFlush that returns true if cards are all of the same Suit
+ * 15. isStraight that returns ture if cards are all in consecutive order
  */
-package question1;
-import question1.Card.CompareDescending;
-import question1.Card.Rank;
-import question1.Card.Suit;
+package Q1;
+import Q1.Card.CompareDescending;
+import Q1.Card.Rank;
+import Q1.Card.Suit;
 import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Collection;
@@ -49,7 +50,8 @@ public class Hand implements Serializable, Iterable
     public Hand()
     {
         //Create a new LinkedList
-        this.hand = new <Card>LinkedList();  
+        this.hand = new <Card>LinkedList();
+        
     }
     
     /**
@@ -103,36 +105,6 @@ public class Hand implements Serializable, Iterable
     public List<Card> getCards()
     {
         return this.hand;
-    }
-    
-    /**
-     * Accessor method to return a given card in the hand object. Takes an 
-     * integer argument that is the position of the card in the hand.
-     * @param position - position of the card in the hand
-     * @return 
-     */
-    public Card getCard(int position)
-    {
-        return this.hand.get(position);
-    }
-    
-    /**
-     * Accessor method that iterates over a hand object checking to see if it 
-     * contains a given Card Object. Returns TRUE if the card is found, returns
-     * FALSE if not found. Returns FALSE by default.
-     * @param searchCard - Card to be searched for in the hand.
-     * @return 
-     */
-    public boolean findCard(Card searchCard)
-    {
-        for (int i = 0; i < this.hand.size(); i++) 
-        {
-            if(this.hand.get(i).compareTo(searchCard) == 0)
-            {
-                return true;
-            }
-        }
-        return false;
     }
 
     /**
@@ -351,9 +323,7 @@ public class Hand implements Serializable, Iterable
         StringBuilder str = new StringBuilder();
         for(int i = 0; i < this.hand.size(); i++)
         {
-            str.append("Card ")
-                    .append(i+1).append(" ").append(this.hand.get(i).toString())
-                    .append("\n");
+            str.append(this.hand.get(i).toString()).append("\n");
 
         }
         return str.toString();

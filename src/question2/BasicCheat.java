@@ -13,6 +13,9 @@ public class BasicCheat implements CardGame
     private int currentPlayer;
     private Hand discards;
     private Bid currentBid;
+    StrategyFactory stratFac = new StrategyFactory();
+    Scanner scan = new Scanner(System.in);
+    private int humanPlayer;
     
 
     public BasicCheat()
@@ -27,7 +30,20 @@ public class BasicCheat implements CardGame
         
         for(int i=0;i<nosPlayers;i++)
         {
-            players[i]=(new BasicPlayer(new BasicStrategy(),this));
+            System.out.println("What type of player would you like to make? "
+                    + "Human (H) or Computer (C)...");
+            String temp = scan.next();
+            if("H".equals(temp) == true)
+            {
+                players[i] = 
+                        (new HumanPlayer(stratFac.chooseStrategy(temp), this));
+                humanPlayer = i;
+            }
+            else
+            {
+                players[i]=
+                        (new BasicPlayer(stratFac.chooseStrategy(temp),this));
+            }
         }
         
         currentBid=new Bid();
@@ -41,15 +57,6 @@ public class BasicCheat implements CardGame
         //lastBid=currentBid;
         //Ask player for a play
         
-        //Print out the current players hand
-        List<Card> h = ((BasicPlayer)players[currentPlayer]).getHand();
-        h.sort(null);
-        
-        System.out.println("Player " + (currentPlayer+1) + " Hand = ");
-        for (Card c : h) {
-            System.out.print(c + " ");
-        }
-        System.out.println();
         System.out.println("current bid = "+currentBid);
         currentBid=players[currentPlayer].playHand(currentBid);
         
@@ -138,6 +145,10 @@ public class BasicCheat implements CardGame
             it.remove();
             count++;
         }
+        
+        //sort and print out the users hand
+        players[humanPlayer].sortedHand();
+        System.out.println(players[humanPlayer].printHand());
         //Initialise Discards
         discards=new Hand();
         
@@ -150,8 +161,6 @@ public class BasicCheat implements CardGame
                 currentPlayer = i;
             }
         }
-        System.out.println(currentPlayer);
-        System.out.println(nosPlayers);
         currentBid=new Bid();
         currentBid.setRank(Card.Rank.TWO);
     }
@@ -166,10 +175,14 @@ public class BasicCheat implements CardGame
         
         while(!finished)
         {
+            players[humanPlayer].sortedHand();
+            System.out.println("---------------------------------------------");
             //Play a hand
             System.out.println("Cheat turn for player "+(currentPlayer+1));
             playTurn();
-            System.out.println("Current discards =\n"+discards.toString());
+            //edited for human versions and beyond (to ensure no unfairness)
+            System.out.println("Number of cards in discard pile = "
+                    +discards.handSize());
             c++;
             System.out.println("Turn "+c+ " Complete. Press any key to "
                     + "continue or enter Q to quit>");

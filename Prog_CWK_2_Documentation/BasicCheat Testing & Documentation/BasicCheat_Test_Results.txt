@@ -1,0 +1,2162 @@
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 1
+Player Honest
+Adding cards to player 1
+Current discards =
+
+Turn 1 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 3 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+
+Turn 2 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 3 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+
+Turn 3 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x TWO
+Player bid = 2 x THREE
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+THREE CLUBS
+THREE DIAMONDS
+
+Turn 4 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 2 x THREE
+Player bid = 2 x FOUR
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+THREE CLUBS
+THREE DIAMONDS
+FOUR HEARTS
+FOUR DIAMONDS
+
+Turn 5 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 2 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+THREE CLUBS
+THREE DIAMONDS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR CLUBS
+
+Turn 6 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player Honest
+Adding cards to player 2
+Current discards =
+
+Turn 7 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 8 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 9 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 3 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+
+Turn 10 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 3 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+TWO HEARTS
+
+Turn 11 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 12 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 13 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 3
+Player Honest
+Adding cards to player 3
+Current discards =
+
+Turn 14 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 15 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 3 x THREE
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+
+Turn 16 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 3 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 17 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 18 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 19 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player Honest
+Adding cards to player 5
+Current discards =
+
+Turn 20 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 21 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 22 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 23 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 24 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 25 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 26 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+QUEEN HEARTS
+
+Turn 27 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+QUEEN HEARTS
+NINE HEARTS
+
+Turn 28 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 29 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 30 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 31 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 32 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 33 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 34 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 35 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 36 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 37 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 38 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 39 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 40 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 41 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 42 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 43 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 44 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 45 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 46 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 47 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 48 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 49 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO HEARTS
+
+Turn 50 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO HEARTS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 51 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player Honest
+Adding cards to player 2
+Current discards =
+
+Turn 52 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 53 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 54 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 55 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+KING SPADES
+
+Turn 56 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 57 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 58 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 59 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 60 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 61 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 62 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+KING SPADES
+
+Turn 63 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+KING SPADES
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 64 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+KING SPADES
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+JACK HEARTS
+
+Turn 65 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+KING SPADES
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+JACK HEARTS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 66 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 67 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 68 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 69 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN DIAMONDS
+
+Turn 70 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN DIAMONDS
+SEVEN HEARTS
+
+Turn 71 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 72 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 73 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+
+Turn 74 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+SEVEN SPADES
+
+Turn 75 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+SEVEN SPADES
+QUEEN SPADES
+
+Turn 76 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+SEVEN SPADES
+QUEEN SPADES
+KING CLUBS
+
+Turn 77 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+SEVEN SPADES
+QUEEN SPADES
+KING CLUBS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 78 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+QUEEN HEARTS
+SEVEN SPADES
+QUEEN SPADES
+KING CLUBS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+KING DIAMONDS
+
+Turn 79 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 80 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 81 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 82 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 83 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 84 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 85 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 86 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 87 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 88 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 89 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 90 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 91 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 92 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 93 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 94 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 95 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 96 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 97 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 98 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 99 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 100 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+
+Turn 101 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+ACE SPADES
+
+Turn 102 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+ACE SPADES
+NINE CLUBS
+
+Turn 103 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+ACE SPADES
+NINE CLUBS
+NINE DIAMONDS
+
+Turn 104 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+ACE SPADES
+NINE CLUBS
+NINE DIAMONDS
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 105 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+SEVEN CLUBS
+ACE SPADES
+NINE CLUBS
+NINE DIAMONDS
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 106 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 107 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 108 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 109 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 110 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 111 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 112 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 113 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 114 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 115 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 116 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO DIAMONDS
+
+Turn 117 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 118 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 119 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 3 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+
+Turn 120 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 3 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+
+Turn 121 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+QUEEN HEARTS
+
+Turn 122 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO SPADES
+TWO DIAMONDS
+QUEEN HEARTS
+SEVEN CLUBS
+
+Turn 123 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 1 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 124 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 125 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TEN SPADES
+
+Turn 126 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TEN SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 127 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x FOUR
+Player bid = 4 x FIVE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TEN SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+FIVE CLUBS
+FIVE HEARTS
+FIVE DIAMONDS
+FIVE SPADES
+
+Turn 128 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x FIVE
+Player bid = 1 x SIX
+Player called cheat by Player 1
+Player Honest
+Adding cards to player 1
+Current discards =
+
+Turn 129 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 130 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+
+Turn 131 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+TEN CLUBS
+
+Turn 132 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+TEN CLUBS
+ACE CLUBS
+
+Turn 133 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+TEN CLUBS
+ACE CLUBS
+NINE SPADES
+
+Turn 134 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+TEN CLUBS
+ACE CLUBS
+NINE SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 135 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+TWO CLUBS
+TEN CLUBS
+ACE CLUBS
+NINE SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+SEVEN CLUBS
+
+Turn 136 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 137 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 138 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 3 x TWO
+No Cheat Called
+Current discards =
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 139 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 3 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+TWO CLUBS
+
+Turn 140 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 141 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 142 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 4
+Current discards =
+
+Turn 143 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 144 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 145 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 5
+Current discards =
+
+Turn 146 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 147 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+
+Turn 148 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+
+Turn 149 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+
+Turn 150 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 151 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 4 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+ACE DIAMONDS
+
+Turn 152 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+ACE DIAMONDS
+SEVEN SPADES
+
+Turn 153 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x FOUR
+Player bid = 3 x FIVE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+ACE DIAMONDS
+SEVEN SPADES
+FIVE CLUBS
+FIVE DIAMONDS
+FIVE SPADES
+
+Turn 154 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 3 x FIVE
+Player bid = 1 x FIVE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+ACE DIAMONDS
+SEVEN SPADES
+FIVE CLUBS
+FIVE DIAMONDS
+FIVE SPADES
+JACK DIAMONDS
+
+Turn 155 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x FIVE
+Player bid = 1 x FIVE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+EIGHT DIAMONDS
+FIVE HEARTS
+EIGHT SPADES
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+ACE DIAMONDS
+SEVEN SPADES
+FIVE CLUBS
+FIVE DIAMONDS
+FIVE SPADES
+JACK DIAMONDS
+EIGHT HEARTS
+
+Turn 156 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x FIVE
+Player bid = 1 x SIX
+Player called cheat by Player 1
+Player Honest
+Adding cards to player 1
+Current discards =
+
+Turn 157 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 158 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Current discards =
+
+Turn 159 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 160 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 161 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Current discards =
+
+Turn 162 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+
+Turn 163 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+NINE SPADES
+
+Turn 164 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+NINE SPADES
+EIGHT CLUBS
+
+Turn 165 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 5
+current bid = 1 x THREE
+Player bid = 1 x THREE
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+NINE SPADES
+EIGHT CLUBS
+TEN HEARTS
+
+Turn 166 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 1 x THREE
+Player bid = 4 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+NINE SPADES
+EIGHT CLUBS
+TEN HEARTS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+
+Turn 167 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x FOUR
+Player bid = 1 x FOUR
+No Cheat Called
+Current discards =
+THREE CLUBS
+THREE HEARTS
+THREE DIAMONDS
+THREE SPADES
+NINE SPADES
+EIGHT CLUBS
+TEN HEARTS
+FOUR CLUBS
+FOUR HEARTS
+FOUR DIAMONDS
+FOUR SPADES
+TEN DIAMONDS
+
+Turn 168 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 3
+current bid = 1 x FOUR
+Player bid = 1 x FIVE
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Current discards =
+
+Turn 169 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 1
+current bid = 0 x TWO
+Player bid = 4 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+
+Turn 170 Complete. Press any key to continue or enter Q to quit>
+
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x TWO
+No Cheat Called
+Current discards =
+TWO CLUBS
+TWO HEARTS
+TWO DIAMONDS
+TWO SPADES
+QUEEN HEARTS
+
+Turn 171 Complete. Press any key to continue or enter Q to quit>
+
+The Winner is Player 2

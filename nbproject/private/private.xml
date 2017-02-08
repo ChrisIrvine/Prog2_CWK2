@@ -3,13 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/BasicPlayer.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/Strategy.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/BasicCheat.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/BasicStrategy.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/Bid.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/CardGame.java</file>
-            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/Q2/Player.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question1/Card.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/BasicCheat.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/Strategy.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/BasicStrategy.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/StrategyFactory.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/BasicPlayer.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/Player.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/Bid.java</file>
+            <file>file:/Users/christopherirvine/Desktop/Prog2_CWK_2/src/question2/CardGame.java</file>
         </group>
     </open-files>
 </project-private>

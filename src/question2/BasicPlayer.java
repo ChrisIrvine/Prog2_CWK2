@@ -10,6 +10,7 @@
  *              1.1 - Tested
  *              1.2 - whosFirst() method added
  *              1.3 - refined and comments added
+ *              1.4 - additonal constructors for StrategyFactory added
  */
 package question2;
 
@@ -32,13 +33,13 @@ public class BasicPlayer implements Player
     
     /**
      * Constructor method that takes a Strategy object and a Cheat object.
-     * @param basicS - which strategy to use
+     * @param strat - which strategy to use
      * @param basicC - initial bid
      */
-    public BasicPlayer(BasicStrategy basicS, BasicCheat basicC)
+    public BasicPlayer(Strategy strat, BasicCheat basicC)
     {
         playerHand = new Hand();
-        strategy = basicS;
+        strategy = strat;
         cheat = basicC;
     }
     
@@ -136,5 +137,24 @@ public class BasicPlayer implements Player
         Card firstCard = new Card(Rank.TWO, Suit.CLUBS);
         //Test to see if this player has the TWO of CLUBS in their hand
         return this.playerHand.findCard(firstCard);
+    }
+
+    /**
+     * Accessor method that returns a string containing the hand of the player
+     * @return 
+     */
+    @Override
+    public String printHand() 
+    {
+        return this.playerHand.toString();
+    }
+    
+    /**
+     * Mutator method that sorts the hand into Ascending Order.
+     */
+    @Override
+    public void sortedHand()
+    {
+        this.playerHand.sortAscending();
     }
 }

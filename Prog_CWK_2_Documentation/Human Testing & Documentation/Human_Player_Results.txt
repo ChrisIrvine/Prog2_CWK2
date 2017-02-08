@@ -1,0 +1,2152 @@
+What type of player would you like to make? Human (H) or Computer (C)...
+H
+What type of player would you like to make? Human (H) or Computer (C)...
+C
+You have selected to make a Computer controlled Player then please select either; Basic (b), Thinker (t) or My (m).
+Please be advised that only Basic is currently implemented...
+b
+What type of player would you like to make? Human (H) or Computer (C)...
+C
+You have selected to make a Computer controlled Player then please select either; Basic (b), Thinker (t) or My (m).
+Please be advised that only Basic is currently implemented...
+b
+What type of player would you like to make? Human (H) or Computer (C)...
+C
+You have selected to make a Computer controlled Player then please select either; Basic (b), Thinker (t) or My (m).
+Please be advised that only Basic is currently implemented...
+b
+What type of player would you like to make? Human (H) or Computer (C)...
+C
+You have selected to make a Computer controlled Player then please select either; Basic (b), Thinker (t) or My (m).
+Please be advised that only Basic is currently implemented...
+b
+Card 1 THREE CLUBS
+Card 2 FOUR DIAMONDS
+Card 3 FIVE DIAMONDS
+Card 4 SIX HEARTS
+Card 5 SEVEN CLUBS
+Card 6 SEVEN SPADES
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 1
+Turn 1 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 2
+Turn 2 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 3
+Turn 3 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 4 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x TWO
+It's your turn! You cards are: 
+Card 1 THREE CLUBS
+Card 2 FOUR DIAMONDS
+Card 3 FIVE DIAMONDS
+Card 4 SIX HEARTS
+Card 5 SEVEN CLUBS
+Card 6 SEVEN SPADES
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+The previous bid is 1 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR DIAMONDS
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+Player bid = 1 x THREE
+No Cheat Called
+Number of cards in discard pile = 5
+Turn 5 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 1 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 6
+Turn 6 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 7
+Turn 7 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 8
+Turn 8 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x THREE
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+Player called cheat by Player 2
+Player Honest
+Adding cards to player 2
+Number of cards in discard pile = 0
+Turn 9 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 10 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 11 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR DIAMONDS
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 12 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 13 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 5
+Turn 14 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 4
+Number of cards in discard pile = 0
+Turn 15 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR DIAMONDS
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+2
+Card 1 FOUR DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 16 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+h
+You called the bid Honest!
+Player called cheat by Player 3
+Player Honest
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 17 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 18 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 8
+Turn 19 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 5
+Number of cards in discard pile = 0
+Turn 20 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 2
+Number of cards in discard pile = 0
+Turn 21 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 22 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 4 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR DIAMONDS
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+The previous bid is 4 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+2
+Card 1 FOUR DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x THREE
+Player called cheat by Player 5
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 23 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 24 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 4 x THREE
+It's your turn! You cards are: 
+Card 1 TWO CLUBS
+Card 2 TWO HEARTS
+Card 3 TWO DIAMONDS
+Card 4 TWO SPADES
+Card 5 FOUR DIAMONDS
+Card 6 FIVE DIAMONDS
+Card 7 SIX HEARTS
+Card 8 SEVEN CLUBS
+Card 9 SEVEN SPADES
+Card 10 TEN SPADES
+Card 11 QUEEN DIAMONDS
+Card 12 KING CLUBS
+Card 13 KING HEARTS
+Card 14 KING SPADES
+
+The previous bid is 4 x THREE. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 TWO CLUBS
+Card 2 TWO HEARTS
+Card 3 TWO DIAMONDS
+Card 4 TWO SPADES
+Card 5 FIVE DIAMONDS
+Card 6 SIX HEARTS
+Card 7 SEVEN CLUBS
+Card 8 SEVEN SPADES
+Card 9 TEN SPADES
+Card 10 QUEEN DIAMONDS
+Card 11 KING CLUBS
+Card 12 KING HEARTS
+Card 13 KING SPADES
+
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player Honest
+Adding cards to player 2
+Number of cards in discard pile = 0
+Turn 25 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 26 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 27 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 TWO CLUBS
+Card 2 TWO HEARTS
+Card 3 TWO DIAMONDS
+Card 4 TWO SPADES
+Card 5 FIVE DIAMONDS
+Card 6 SIX HEARTS
+Card 7 SEVEN CLUBS
+Card 8 SEVEN SPADES
+Card 9 TEN SPADES
+Card 10 QUEEN DIAMONDS
+Card 11 KING CLUBS
+Card 12 KING HEARTS
+Card 13 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TWO HEARTS
+Card 2 TWO DIAMONDS
+Card 3 TWO SPADES
+Card 4 FIVE DIAMONDS
+Card 5 SIX HEARTS
+Card 6 SEVEN CLUBS
+Card 7 SEVEN SPADES
+Card 8 TEN SPADES
+Card 9 QUEEN DIAMONDS
+Card 10 KING CLUBS
+Card 11 KING HEARTS
+Card 12 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TWO DIAMONDS
+Card 2 TWO SPADES
+Card 3 FIVE DIAMONDS
+Card 4 SIX HEARTS
+Card 5 SEVEN CLUBS
+Card 6 SEVEN SPADES
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TWO SPADES
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Player bid = 4 x TWO
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 28 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x TWO
+Player bid = 1 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Number of cards in discard pile = 0
+Turn 29 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING CLUBS
+Card 7 KING HEARTS
+Card 8 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 30 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 31 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 4
+Number of cards in discard pile = 0
+Turn 32 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+2
+Please which card(s) you would like to play (Select the card number): 
+4
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 TEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING CLUBS
+Card 7 KING HEARTS
+Card 8 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+6
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 TEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING HEARTS
+Card 7 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 2 x THREE
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 33 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 34 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 5
+Turn 35 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x THREE
+It's your turn! You cards are: 
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+The previous bid is 1 x THREE. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+2
+Card 1 FIVE DIAMONDS
+Card 2 SEVEN CLUBS
+Card 3 SEVEN SPADES
+Card 4 TEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING CLUBS
+Card 7 KING HEARTS
+Card 8 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x FOUR
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 36 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 37 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 38 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 THREE CLUBS
+Card 2 THREE HEARTS
+Card 3 THREE DIAMONDS
+Card 4 THREE SPADES
+Card 5 FIVE DIAMONDS
+Card 6 SIX HEARTS
+Card 7 SEVEN CLUBS
+Card 8 SEVEN SPADES
+Card 9 TEN HEARTS
+Card 10 TEN SPADES
+Card 11 QUEEN DIAMONDS
+Card 12 KING CLUBS
+Card 13 KING HEARTS
+Card 14 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE HEARTS
+Card 2 THREE DIAMONDS
+Card 3 THREE SPADES
+Card 4 FIVE DIAMONDS
+Card 5 SIX HEARTS
+Card 6 SEVEN CLUBS
+Card 7 SEVEN SPADES
+Card 8 TEN HEARTS
+Card 9 TEN SPADES
+Card 10 QUEEN DIAMONDS
+Card 11 KING CLUBS
+Card 12 KING HEARTS
+Card 13 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE DIAMONDS
+Card 2 THREE SPADES
+Card 3 FIVE DIAMONDS
+Card 4 SIX HEARTS
+Card 5 SEVEN CLUBS
+Card 6 SEVEN SPADES
+Card 7 TEN HEARTS
+Card 8 TEN SPADES
+Card 9 QUEEN DIAMONDS
+Card 10 KING CLUBS
+Card 11 KING HEARTS
+Card 12 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE SPADES
+Card 2 FIVE DIAMONDS
+Card 3 SIX HEARTS
+Card 4 SEVEN CLUBS
+Card 5 SEVEN SPADES
+Card 6 TEN HEARTS
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN HEARTS
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+Player bid = 4 x THREE
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 39 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 4 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 8
+Turn 40 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x FOUR
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 9
+Turn 41 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x FIVE
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 10
+Turn 42 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x FIVE
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 11
+Turn 43 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x FIVE
+It's your turn! You cards are: 
+Card 1 FIVE DIAMONDS
+Card 2 SIX HEARTS
+Card 3 SEVEN CLUBS
+Card 4 SEVEN SPADES
+Card 5 TEN HEARTS
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+The previous bid is 1 x FIVE. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SIX HEARTS
+Card 2 SEVEN CLUBS
+Card 3 SEVEN SPADES
+Card 4 TEN HEARTS
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Player bid = 1 x FIVE
+No Cheat Called
+Number of cards in discard pile = 12
+Turn 44 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 1 x FIVE
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 13
+Turn 45 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 14
+Turn 46 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 15
+Turn 47 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x SIX
+Player bid = 1 x SEVEN
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 16
+Turn 48 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x SEVEN
+It's your turn! You cards are: 
+Card 1 SIX HEARTS
+Card 2 SEVEN CLUBS
+Card 3 SEVEN SPADES
+Card 4 TEN HEARTS
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+The previous bid is 1 x SEVEN. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+2
+Please which card(s) you would like to play (Select the card number): 
+2
+Card 1 SIX HEARTS
+Card 2 SEVEN SPADES
+Card 3 TEN HEARTS
+Card 4 TEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING CLUBS
+Card 7 KING HEARTS
+Card 8 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+2
+Card 1 SIX HEARTS
+Card 2 TEN HEARTS
+Card 3 TEN SPADES
+Card 4 QUEEN DIAMONDS
+Card 5 KING CLUBS
+Card 6 KING HEARTS
+Card 7 KING SPADES
+
+Player bid = 2 x SEVEN
+No Cheat Called
+Number of cards in discard pile = 18
+Turn 49 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 2 x SEVEN
+Player bid = 1 x SEVEN
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 19
+Turn 50 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x SEVEN
+Player bid = 1 x SEVEN
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player Honest
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 51 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 THREE CLUBS
+Card 2 THREE HEARTS
+Card 3 THREE DIAMONDS
+Card 4 THREE SPADES
+Card 5 FOUR CLUBS
+Card 6 FOUR HEARTS
+Card 7 FOUR DIAMONDS
+Card 8 FOUR SPADES
+Card 9 FIVE CLUBS
+Card 10 FIVE HEARTS
+Card 11 FIVE DIAMONDS
+Card 12 FIVE SPADES
+Card 13 SIX CLUBS
+Card 14 SIX HEARTS
+Card 15 SIX DIAMONDS
+Card 16 SIX SPADES
+Card 17 SEVEN CLUBS
+Card 18 SEVEN HEARTS
+Card 19 SEVEN DIAMONDS
+Card 20 SEVEN SPADES
+Card 21 TEN HEARTS
+Card 22 TEN DIAMONDS
+Card 23 TEN SPADES
+Card 24 QUEEN DIAMONDS
+Card 25 KING CLUBS
+Card 26 KING HEARTS
+Card 27 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE HEARTS
+Card 2 THREE DIAMONDS
+Card 3 THREE SPADES
+Card 4 FOUR CLUBS
+Card 5 FOUR HEARTS
+Card 6 FOUR DIAMONDS
+Card 7 FOUR SPADES
+Card 8 FIVE CLUBS
+Card 9 FIVE HEARTS
+Card 10 FIVE DIAMONDS
+Card 11 FIVE SPADES
+Card 12 SIX CLUBS
+Card 13 SIX HEARTS
+Card 14 SIX DIAMONDS
+Card 15 SIX SPADES
+Card 16 SEVEN CLUBS
+Card 17 SEVEN HEARTS
+Card 18 SEVEN DIAMONDS
+Card 19 SEVEN SPADES
+Card 20 TEN HEARTS
+Card 21 TEN DIAMONDS
+Card 22 TEN SPADES
+Card 23 QUEEN DIAMONDS
+Card 24 KING CLUBS
+Card 25 KING HEARTS
+Card 26 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE DIAMONDS
+Card 2 THREE SPADES
+Card 3 FOUR CLUBS
+Card 4 FOUR HEARTS
+Card 5 FOUR DIAMONDS
+Card 6 FOUR SPADES
+Card 7 FIVE CLUBS
+Card 8 FIVE HEARTS
+Card 9 FIVE DIAMONDS
+Card 10 FIVE SPADES
+Card 11 SIX CLUBS
+Card 12 SIX HEARTS
+Card 13 SIX DIAMONDS
+Card 14 SIX SPADES
+Card 15 SEVEN CLUBS
+Card 16 SEVEN HEARTS
+Card 17 SEVEN DIAMONDS
+Card 18 SEVEN SPADES
+Card 19 TEN HEARTS
+Card 20 TEN DIAMONDS
+Card 21 TEN SPADES
+Card 22 QUEEN DIAMONDS
+Card 23 KING CLUBS
+Card 24 KING HEARTS
+Card 25 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 THREE SPADES
+Card 2 FOUR CLUBS
+Card 3 FOUR HEARTS
+Card 4 FOUR DIAMONDS
+Card 5 FOUR SPADES
+Card 6 FIVE CLUBS
+Card 7 FIVE HEARTS
+Card 8 FIVE DIAMONDS
+Card 9 FIVE SPADES
+Card 10 SIX CLUBS
+Card 11 SIX HEARTS
+Card 12 SIX DIAMONDS
+Card 13 SIX SPADES
+Card 14 SEVEN CLUBS
+Card 15 SEVEN HEARTS
+Card 16 SEVEN DIAMONDS
+Card 17 SEVEN SPADES
+Card 18 TEN HEARTS
+Card 19 TEN DIAMONDS
+Card 20 TEN SPADES
+Card 21 QUEEN DIAMONDS
+Card 22 KING CLUBS
+Card 23 KING HEARTS
+Card 24 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE CLUBS
+Card 6 FIVE HEARTS
+Card 7 FIVE DIAMONDS
+Card 8 FIVE SPADES
+Card 9 SIX CLUBS
+Card 10 SIX HEARTS
+Card 11 SIX DIAMONDS
+Card 12 SIX SPADES
+Card 13 SEVEN CLUBS
+Card 14 SEVEN HEARTS
+Card 15 SEVEN DIAMONDS
+Card 16 SEVEN SPADES
+Card 17 TEN HEARTS
+Card 18 TEN DIAMONDS
+Card 19 TEN SPADES
+Card 20 QUEEN DIAMONDS
+Card 21 KING CLUBS
+Card 22 KING HEARTS
+Card 23 KING SPADES
+
+Player bid = 4 x THREE
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 52 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 2
+Number of cards in discard pile = 0
+Turn 53 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE CLUBS
+Card 6 FIVE HEARTS
+Card 7 FIVE DIAMONDS
+Card 8 FIVE SPADES
+Card 9 SIX CLUBS
+Card 10 SIX HEARTS
+Card 11 SIX DIAMONDS
+Card 12 SIX SPADES
+Card 13 SEVEN CLUBS
+Card 14 SEVEN HEARTS
+Card 15 SEVEN DIAMONDS
+Card 16 SEVEN SPADES
+Card 17 TEN HEARTS
+Card 18 TEN DIAMONDS
+Card 19 TEN SPADES
+Card 20 QUEEN DIAMONDS
+Card 21 KING CLUBS
+Card 22 KING HEARTS
+Card 23 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR HEARTS
+Card 2 FOUR DIAMONDS
+Card 3 FOUR SPADES
+Card 4 FIVE CLUBS
+Card 5 FIVE HEARTS
+Card 6 FIVE DIAMONDS
+Card 7 FIVE SPADES
+Card 8 SIX CLUBS
+Card 9 SIX HEARTS
+Card 10 SIX DIAMONDS
+Card 11 SIX SPADES
+Card 12 SEVEN CLUBS
+Card 13 SEVEN HEARTS
+Card 14 SEVEN DIAMONDS
+Card 15 SEVEN SPADES
+Card 16 TEN HEARTS
+Card 17 TEN DIAMONDS
+Card 18 TEN SPADES
+Card 19 QUEEN DIAMONDS
+Card 20 KING CLUBS
+Card 21 KING HEARTS
+Card 22 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 1 x THREE
+Player called cheat by Player 2
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 54 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 55 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 56 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE CLUBS
+Card 6 FIVE HEARTS
+Card 7 FIVE DIAMONDS
+Card 8 FIVE SPADES
+Card 9 SIX CLUBS
+Card 10 SIX HEARTS
+Card 11 SIX DIAMONDS
+Card 12 SIX SPADES
+Card 13 SEVEN CLUBS
+Card 14 SEVEN HEARTS
+Card 15 SEVEN DIAMONDS
+Card 16 SEVEN SPADES
+Card 17 TEN HEARTS
+Card 18 TEN DIAMONDS
+Card 19 TEN SPADES
+Card 20 QUEEN DIAMONDS
+Card 21 KING CLUBS
+Card 22 KING HEARTS
+Card 23 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR HEARTS
+Card 2 FOUR DIAMONDS
+Card 3 FOUR SPADES
+Card 4 FIVE CLUBS
+Card 5 FIVE HEARTS
+Card 6 FIVE DIAMONDS
+Card 7 FIVE SPADES
+Card 8 SIX CLUBS
+Card 9 SIX HEARTS
+Card 10 SIX DIAMONDS
+Card 11 SIX SPADES
+Card 12 SEVEN CLUBS
+Card 13 SEVEN HEARTS
+Card 14 SEVEN DIAMONDS
+Card 15 SEVEN SPADES
+Card 16 TEN HEARTS
+Card 17 TEN DIAMONDS
+Card 18 TEN SPADES
+Card 19 QUEEN DIAMONDS
+Card 20 KING CLUBS
+Card 21 KING HEARTS
+Card 22 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+
+2
+Player bid = 1 x THREE
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 57 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 58 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 4
+Number of cards in discard pile = 0
+Turn 59 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 60 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 5
+Turn 61 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x FOUR
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 6
+Turn 62 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x FIVE
+It's your turn! You cards are: 
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE CLUBS
+Card 6 FIVE HEARTS
+Card 7 FIVE DIAMONDS
+Card 8 FIVE SPADES
+Card 9 SIX CLUBS
+Card 10 SIX HEARTS
+Card 11 SIX DIAMONDS
+Card 12 SIX SPADES
+Card 13 SEVEN CLUBS
+Card 14 SEVEN HEARTS
+Card 15 SEVEN DIAMONDS
+Card 16 SEVEN SPADES
+Card 17 TEN HEARTS
+Card 18 TEN DIAMONDS
+Card 19 TEN SPADES
+Card 20 QUEEN DIAMONDS
+Card 21 KING CLUBS
+Card 22 KING HEARTS
+Card 23 KING SPADES
+
+The previous bid is 1 x FIVE. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE HEARTS
+Card 6 FIVE DIAMONDS
+Card 7 FIVE SPADES
+Card 8 SIX CLUBS
+Card 9 SIX HEARTS
+Card 10 SIX DIAMONDS
+Card 11 SIX SPADES
+Card 12 SEVEN CLUBS
+Card 13 SEVEN HEARTS
+Card 14 SEVEN DIAMONDS
+Card 15 SEVEN SPADES
+Card 16 TEN HEARTS
+Card 17 TEN DIAMONDS
+Card 18 TEN SPADES
+Card 19 QUEEN DIAMONDS
+Card 20 KING CLUBS
+Card 21 KING HEARTS
+Card 22 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE DIAMONDS
+Card 6 FIVE SPADES
+Card 7 SIX CLUBS
+Card 8 SIX HEARTS
+Card 9 SIX DIAMONDS
+Card 10 SIX SPADES
+Card 11 SEVEN CLUBS
+Card 12 SEVEN HEARTS
+Card 13 SEVEN DIAMONDS
+Card 14 SEVEN SPADES
+Card 15 TEN HEARTS
+Card 16 TEN DIAMONDS
+Card 17 TEN SPADES
+Card 18 QUEEN DIAMONDS
+Card 19 KING CLUBS
+Card 20 KING HEARTS
+Card 21 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 FIVE SPADES
+Card 6 SIX CLUBS
+Card 7 SIX HEARTS
+Card 8 SIX DIAMONDS
+Card 9 SIX SPADES
+Card 10 SEVEN CLUBS
+Card 11 SEVEN HEARTS
+Card 12 SEVEN DIAMONDS
+Card 13 SEVEN SPADES
+Card 14 TEN HEARTS
+Card 15 TEN DIAMONDS
+Card 16 TEN SPADES
+Card 17 QUEEN DIAMONDS
+Card 18 KING CLUBS
+Card 19 KING HEARTS
+Card 20 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+5
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 SIX CLUBS
+Card 6 SIX HEARTS
+Card 7 SIX DIAMONDS
+Card 8 SIX SPADES
+Card 9 SEVEN CLUBS
+Card 10 SEVEN HEARTS
+Card 11 SEVEN DIAMONDS
+Card 12 SEVEN SPADES
+Card 13 TEN HEARTS
+Card 14 TEN DIAMONDS
+Card 15 TEN SPADES
+Card 16 QUEEN DIAMONDS
+Card 17 KING CLUBS
+Card 18 KING HEARTS
+Card 19 KING SPADES
+
+Player bid = 4 x FIVE
+No Cheat Called
+Number of cards in discard pile = 10
+Turn 63 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x FIVE
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 11
+Turn 64 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+c
+You called the bid Cheat!
+Player called cheat by Player 1
+Player cheats!
+Adding cards to player 3
+Number of cards in discard pile = 0
+Turn 65 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 0 x TWO
+It's your turn! You cards are: 
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 SIX CLUBS
+Card 6 SIX HEARTS
+Card 7 SIX DIAMONDS
+Card 8 SIX SPADES
+Card 9 SEVEN CLUBS
+Card 10 SEVEN HEARTS
+Card 11 SEVEN DIAMONDS
+Card 12 SEVEN SPADES
+Card 13 TEN HEARTS
+Card 14 TEN DIAMONDS
+Card 15 TEN SPADES
+Card 16 QUEEN DIAMONDS
+Card 17 KING CLUBS
+Card 18 KING HEARTS
+Card 19 KING SPADES
+
+The previous bid is 0 x TWO. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+1
+Please which card(s) you would like to play (Select the card number): 
+
+1
+Card 1 FOUR HEARTS
+Card 2 FOUR DIAMONDS
+Card 3 FOUR SPADES
+Card 4 SIX CLUBS
+Card 5 SIX HEARTS
+Card 6 SIX DIAMONDS
+Card 7 SIX SPADES
+Card 8 SEVEN CLUBS
+Card 9 SEVEN HEARTS
+Card 10 SEVEN DIAMONDS
+Card 11 SEVEN SPADES
+Card 12 TEN HEARTS
+Card 13 TEN DIAMONDS
+Card 14 TEN SPADES
+Card 15 QUEEN DIAMONDS
+Card 16 KING CLUBS
+Card 17 KING HEARTS
+Card 18 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+1
+Player bid = 1 x TWO
+Player called cheat by Player 4
+Player cheats!
+Adding cards to player 1
+Number of cards in discard pile = 0
+Turn 66 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 0 x TWO
+Player bid = 4 x TWO
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 67 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 4 x TWO
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+Player called cheat by Player 3
+Player cheats!
+Adding cards to player 5
+Number of cards in discard pile = 0
+Turn 68 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 0 x TWO
+Player bid = 4 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 4
+Turn 69 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x THREE
+Player bid = 1 x THREE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 5
+Turn 70 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x THREE
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 6
+Turn 71 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x FOUR
+It's your turn! You cards are: 
+Card 1 FOUR CLUBS
+Card 2 FOUR HEARTS
+Card 3 FOUR DIAMONDS
+Card 4 FOUR SPADES
+Card 5 SIX CLUBS
+Card 6 SIX HEARTS
+Card 7 SIX DIAMONDS
+Card 8 SIX SPADES
+Card 9 SEVEN CLUBS
+Card 10 SEVEN HEARTS
+Card 11 SEVEN DIAMONDS
+Card 12 SEVEN SPADES
+Card 13 TEN HEARTS
+Card 14 TEN DIAMONDS
+Card 15 TEN SPADES
+Card 16 QUEEN DIAMONDS
+Card 17 KING CLUBS
+Card 18 KING HEARTS
+Card 19 KING SPADES
+
+The previous bid is 1 x FOUR. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR HEARTS
+Card 2 FOUR DIAMONDS
+Card 3 FOUR SPADES
+Card 4 SIX CLUBS
+Card 5 SIX HEARTS
+Card 6 SIX DIAMONDS
+Card 7 SIX SPADES
+Card 8 SEVEN CLUBS
+Card 9 SEVEN HEARTS
+Card 10 SEVEN DIAMONDS
+Card 11 SEVEN SPADES
+Card 12 TEN HEARTS
+Card 13 TEN DIAMONDS
+Card 14 TEN SPADES
+Card 15 QUEEN DIAMONDS
+Card 16 KING CLUBS
+Card 17 KING HEARTS
+Card 18 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR DIAMONDS
+Card 2 FOUR SPADES
+Card 3 SIX CLUBS
+Card 4 SIX HEARTS
+Card 5 SIX DIAMONDS
+Card 6 SIX SPADES
+Card 7 SEVEN CLUBS
+Card 8 SEVEN HEARTS
+Card 9 SEVEN DIAMONDS
+Card 10 SEVEN SPADES
+Card 11 TEN HEARTS
+Card 12 TEN DIAMONDS
+Card 13 TEN SPADES
+Card 14 QUEEN DIAMONDS
+Card 15 KING CLUBS
+Card 16 KING HEARTS
+Card 17 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 FOUR SPADES
+Card 2 SIX CLUBS
+Card 3 SIX HEARTS
+Card 4 SIX DIAMONDS
+Card 5 SIX SPADES
+Card 6 SEVEN CLUBS
+Card 7 SEVEN HEARTS
+Card 8 SEVEN DIAMONDS
+Card 9 SEVEN SPADES
+Card 10 TEN HEARTS
+Card 11 TEN DIAMONDS
+Card 12 TEN SPADES
+Card 13 QUEEN DIAMONDS
+Card 14 KING CLUBS
+Card 15 KING HEARTS
+Card 16 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SIX CLUBS
+Card 2 SIX HEARTS
+Card 3 SIX DIAMONDS
+Card 4 SIX SPADES
+Card 5 SEVEN CLUBS
+Card 6 SEVEN HEARTS
+Card 7 SEVEN DIAMONDS
+Card 8 SEVEN SPADES
+Card 9 TEN HEARTS
+Card 10 TEN DIAMONDS
+Card 11 TEN SPADES
+Card 12 QUEEN DIAMONDS
+Card 13 KING CLUBS
+Card 14 KING HEARTS
+Card 15 KING SPADES
+
+Player bid = 4 x FOUR
+No Cheat Called
+Number of cards in discard pile = 10
+Turn 72 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x FOUR
+Player bid = 1 x FOUR
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 11
+Turn 73 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x FOUR
+Player bid = 4 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 15
+Turn 74 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 4 x FIVE
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 16
+Turn 75 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x FIVE
+Player bid = 1 x FIVE
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 17
+Turn 76 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x FIVE
+It's your turn! You cards are: 
+Card 1 SIX CLUBS
+Card 2 SIX HEARTS
+Card 3 SIX DIAMONDS
+Card 4 SIX SPADES
+Card 5 SEVEN CLUBS
+Card 6 SEVEN HEARTS
+Card 7 SEVEN DIAMONDS
+Card 8 SEVEN SPADES
+Card 9 TEN HEARTS
+Card 10 TEN DIAMONDS
+Card 11 TEN SPADES
+Card 12 QUEEN DIAMONDS
+Card 13 KING CLUBS
+Card 14 KING HEARTS
+Card 15 KING SPADES
+
+The previous bid is 1 x FIVE. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SIX HEARTS
+Card 2 SIX DIAMONDS
+Card 3 SIX SPADES
+Card 4 SEVEN CLUBS
+Card 5 SEVEN HEARTS
+Card 6 SEVEN DIAMONDS
+Card 7 SEVEN SPADES
+Card 8 TEN HEARTS
+Card 9 TEN DIAMONDS
+Card 10 TEN SPADES
+Card 11 QUEEN DIAMONDS
+Card 12 KING CLUBS
+Card 13 KING HEARTS
+Card 14 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SIX DIAMONDS
+Card 2 SIX SPADES
+Card 3 SEVEN CLUBS
+Card 4 SEVEN HEARTS
+Card 5 SEVEN DIAMONDS
+Card 6 SEVEN SPADES
+Card 7 TEN HEARTS
+Card 8 TEN DIAMONDS
+Card 9 TEN SPADES
+Card 10 QUEEN DIAMONDS
+Card 11 KING CLUBS
+Card 12 KING HEARTS
+Card 13 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SIX SPADES
+Card 2 SEVEN CLUBS
+Card 3 SEVEN HEARTS
+Card 4 SEVEN DIAMONDS
+Card 5 SEVEN SPADES
+Card 6 TEN HEARTS
+Card 7 TEN DIAMONDS
+Card 8 TEN SPADES
+Card 9 QUEEN DIAMONDS
+Card 10 KING CLUBS
+Card 11 KING HEARTS
+Card 12 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SEVEN CLUBS
+Card 2 SEVEN HEARTS
+Card 3 SEVEN DIAMONDS
+Card 4 SEVEN SPADES
+Card 5 TEN HEARTS
+Card 6 TEN DIAMONDS
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+Player bid = 4 x SIX
+No Cheat Called
+Number of cards in discard pile = 21
+Turn 77 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 22
+Turn 78 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 23
+Turn 79 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x SIX
+Player bid = 1 x SIX
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 24
+Turn 80 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x SIX
+Player bid = 1 x SEVEN
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 25
+Turn 81 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x SEVEN
+It's your turn! You cards are: 
+Card 1 SEVEN CLUBS
+Card 2 SEVEN HEARTS
+Card 3 SEVEN DIAMONDS
+Card 4 SEVEN SPADES
+Card 5 TEN HEARTS
+Card 6 TEN DIAMONDS
+Card 7 TEN SPADES
+Card 8 QUEEN DIAMONDS
+Card 9 KING CLUBS
+Card 10 KING HEARTS
+Card 11 KING SPADES
+
+The previous bid is 1 x SEVEN. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+4
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SEVEN HEARTS
+Card 2 SEVEN DIAMONDS
+Card 3 SEVEN SPADES
+Card 4 TEN HEARTS
+Card 5 TEN DIAMONDS
+Card 6 TEN SPADES
+Card 7 QUEEN DIAMONDS
+Card 8 KING CLUBS
+Card 9 KING HEARTS
+Card 10 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SEVEN DIAMONDS
+Card 2 SEVEN SPADES
+Card 3 TEN HEARTS
+Card 4 TEN DIAMONDS
+Card 5 TEN SPADES
+Card 6 QUEEN DIAMONDS
+Card 7 KING CLUBS
+Card 8 KING HEARTS
+Card 9 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 SEVEN SPADES
+Card 2 TEN HEARTS
+Card 3 TEN DIAMONDS
+Card 4 TEN SPADES
+Card 5 QUEEN DIAMONDS
+Card 6 KING CLUBS
+Card 7 KING HEARTS
+Card 8 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TEN HEARTS
+Card 2 TEN DIAMONDS
+Card 3 TEN SPADES
+Card 4 QUEEN DIAMONDS
+Card 5 KING CLUBS
+Card 6 KING HEARTS
+Card 7 KING SPADES
+
+Player bid = 4 x SEVEN
+No Cheat Called
+Number of cards in discard pile = 29
+Turn 82 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 4 x SEVEN
+Player bid = 1 x EIGHT
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 30
+Turn 83 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 3
+current bid = 1 x EIGHT
+Player bid = 1 x EIGHT
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 31
+Turn 84 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 4
+current bid = 1 x EIGHT
+Player bid = 1 x EIGHT
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 32
+Turn 85 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 5
+current bid = 1 x EIGHT
+Player bid = 1 x EIGHT
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 33
+Turn 86 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 1
+current bid = 1 x EIGHT
+It's your turn! You cards are: 
+Card 1 TEN HEARTS
+Card 2 TEN DIAMONDS
+Card 3 TEN SPADES
+Card 4 QUEEN DIAMONDS
+Card 5 KING CLUBS
+Card 6 KING HEARTS
+Card 7 KING SPADES
+
+The previous bid is 1 x EIGHT. Please play a card...
+Please enter the number of cards you would like to bid (between 1 and 4)...
+2
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TEN DIAMONDS
+Card 2 TEN SPADES
+Card 3 QUEEN DIAMONDS
+Card 4 KING CLUBS
+Card 5 KING HEARTS
+Card 6 KING SPADES
+
+Please which card(s) you would like to play (Select the card number): 
+1
+Card 1 TEN SPADES
+Card 2 QUEEN DIAMONDS
+Card 3 KING CLUBS
+Card 4 KING HEARTS
+Card 5 KING SPADES
+
+Bid detected as a cheat bid. Please decide what rank you wish the bid to be. Enter a 1 (for the current bid rank) or 2 (for the next rank)
+2
+Player bid = 2 x NINE
+No Cheat Called
+Number of cards in discard pile = 35
+Turn 87 Complete. Press any key to continue or enter Q to quit>
+
+---------------------------------------------
+Cheat turn for player 2
+current bid = 2 x NINE
+Player bid = 1 x TEN
+Do you think the current bid is a Cheat Bid (c) or an Honest Bid (h)?
+h
+You called the bid Honest!
+No Cheat Called
+Number of cards in discard pile = 36
+Turn 88 Complete. Press any key to continue or enter Q to quit>
+
+The Winner is Player 2

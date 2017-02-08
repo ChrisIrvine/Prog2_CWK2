@@ -1,0 +1,49 @@
+-------------------------------
+Test Card 1
+Card Value: THREE DIAMONDS
+Rank Value: 3
+Suit Value: 3
+-------------------------------
+Test Card 2
+Card Value: SEVEN SPADES
+Rank Value: 7
+Suit Value: 4
+-------------------------------
+Test Card 3
+Card Value: TWO DIAMONDS
+Rank Value: 2
+Suit Value: 3
+-------------------------------
+Test Card 4
+Card Value: QUEEN HEARTS
+Rank Value: 10
+Suit Value: 2
+-------------------------------
+Test Card 5
+Card Value: ACE CLUBS
+Rank Value: 11
+Suit Value: 1
+-------------------------------
+Testing the getNext() method. Expected result is to return the next value 
+in the enum Rank from the selected card, in this case FOUR (as selected card is THREE).
+Result: FOUR
+Testing the toString() method that will return the selected card in a string. 
+In this case it should be THREE DIAMONDS. 
+Result: THREE DIAMONDS
+Testing the difference() method that will returns the difference in ranks 
+between two cards. Expected results is 2-12 = -11 (because it looks at the position in
+the enum. This indicates that the second card is a higher position on the enum than the first.
+Results: -11
+Testing the differenceValue() method that will return the difference in value
+between two cards. Expected results is 11-3 = -8, indicating that the second 
+card is higher than the first.
+Results: -8
+Testing the CompareSuit class. Expected result is a 2 (as Diamonds have a value of 3 and Clubs
+have a value of1) this shows that Diamonds are higher than Clubs (due to  positive output).
+Result: 2
+Testing the CompareSuit class with two cards of the same suit. Expected outcome is that their
+ranks will be compared instead.(2-3 = 1)
+Result: 1
+Testing the CompareDescending class. Expected result is a -8 (as 3-11 = -8) this shows that
+the second card is lower than the first.
+Result: -8
