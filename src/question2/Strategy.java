@@ -1,6 +1,6 @@
-package Q2;
+package question2;
 
-import Q1.*;
+import question1.Hand;
 //import solution_part2.*;
 
 /*

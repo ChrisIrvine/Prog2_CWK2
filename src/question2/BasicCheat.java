@@ -1,6 +1,8 @@
-package Q2;
+package question2;
 
-import Q1.*;
+import question1.Card;
+import question1.Deck;
+import question1.Hand;
 import java.util.*;
 
 public class BasicCheat implements CardGame

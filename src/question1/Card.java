@@ -18,7 +18,7 @@
  *              1.3 - Adjustments from test results.
  *              1.4 - Comments refined.
  */
-package Q1;
+package question1;
 import java.io.Serializable;
 import java.util.Comparator;
 

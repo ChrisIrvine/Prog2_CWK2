@@ -11,12 +11,12 @@
  *              1.2 - whosFirst() method added
  *              1.3 - refined and comments added
  */
-package Q2;
+package question2;
 
-import Q1.Card;
-import Q1.Card.Rank;
-import Q1.Card.Suit;
-import Q1.Hand;
+import question1.Card;
+import question1.Card.Rank;
+import question1.Card.Suit;
+import question1.Hand;
 import java.util.List;
 
 /**

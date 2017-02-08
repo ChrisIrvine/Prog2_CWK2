@@ -16,10 +16,10 @@
  *              1.4 - Adjustments from testing results
  *              1.5 - Comments refined.
  */
-package Q1;
+package question1;
 
-import Q1.Card.Rank;
-import Q1.Card.Suit;
+import question1.Card.Rank;
+import question1.Card.Suit;
 import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;

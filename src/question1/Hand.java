@@ -22,10 +22,10 @@
  *              1.2 - Tested and refined from testing
  *              1.3 - Comments refined
  */
-package Q1;
-import Q1.Card.CompareDescending;
-import Q1.Card.Rank;
-import Q1.Card.Suit;
+package question1;
+import question1.Card.CompareDescending;
+import question1.Card.Rank;
+import question1.Card.Suit;
 import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Collection;

@@ -1,6 +1,7 @@
-package Q2;
+package question2;
 
-import Q1.*;
+import question1.Card;
+import question1.Hand;
 //import solution_part2.*;
 
 public class Bid 

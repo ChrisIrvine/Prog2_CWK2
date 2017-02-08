@@ -26,11 +26,11 @@
  *              known to go up to 400+ rounds. Cause and validity of issue is 
  *              unknown. Perhaps cheat detection is too good/conservative?
  */
-package Q2;
+package question2;
 
-import Q1.Hand;
-import Q1.Card;
-import Q1.Card.Suit;
+import question1.Hand;
+import question1.Card;
+import question1.Card.Suit;
 import java.util.Random;
 
 /**

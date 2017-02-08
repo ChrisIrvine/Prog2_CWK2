@@ -1,4 +1,4 @@
-package Q2;
+package question2;
 
 //import solution_part2.*;
 
