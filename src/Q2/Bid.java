@@ -43,6 +43,8 @@ public class Bid
     { 
        return r;
     }
+    
+    @Override
     public String toString()
     {
         return h.handSize()+" x "+r;

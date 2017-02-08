@@ -141,6 +141,15 @@ public class BasicCheat implements CardGame
         
         //Chose first player (shouldnt current player be that with the TWO CLUBS)
         currentPlayer=0;
+        for (int i = 0; i < nosPlayers; i++) 
+        {
+            if(players[i].whosFirst() == true)
+            {
+                currentPlayer = i;
+            }
+        }
+        System.out.println(currentPlayer);
+        System.out.println(nosPlayers);
         currentBid=new Bid();
         currentBid.setRank(Card.Rank.TWO);
     }

@@ -115,6 +115,25 @@ public class Hand implements Serializable, Iterable
     {
         return this.hand.get(position);
     }
+    
+    /**
+     * Accessor method that iterates over a hand object checking to see if it 
+     * contains a given Card Object. Returns TRUE if the card is found, returns
+     * FALSE if not found. Returns FALSE by default.
+     * @param searchCard - Card to be searched for in the hand.
+     * @return 
+     */
+    public boolean findCard(Card searchCard)
+    {
+        for (int i = 0; i < this.hand.size(); i++) 
+        {
+            if(this.hand.get(i).compareTo(searchCard) == 0)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
 
     /**
      * Mutator method to add a single card to a Hand Object

@@ -47,5 +47,10 @@ public interface Player
      * @return true if calling the last player a cheat.
      */
     boolean callCheat(Bid b);
-	
+    
+    /**
+     * 
+     * @return 
+     */
+    boolean whosFirst();
 }

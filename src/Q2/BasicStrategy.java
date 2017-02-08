@@ -1,7 +1,30 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Author:      ruw12gbu, 100036248
+ * 
+ * Description: This class implements the Strategy Interface and will work with 
+ *              other classes in the project to run a game of Cheat between 
+ *              computer controlled players. This class follows the standard
+ *              rules of Cheat as well as following this stratergy:
+ *              1. Never cheat unless you have to. If a cheat is required, play
+ *                 a single card randomly.
+ *              2. If not cheating, always play the maximum nubmer of cards of 
+ *                 possible of the lowest rank possible.
+ *              3. Call another player a cheat only when certain they are 
+ *                 cheating (based off their own hand.
+ *              I have added in a random element to determine what rank the 
+ *              cheat bid is called at. But all rules are adhered to.
+ * 
+ * Version:     1.0 - Created
+ *              1.1 - cheat() reworked
+ *              1.2 - chooseBid() reworked
+ *              1.3 - chooseBid() reworked again && refined
+ *              1.4 - comments added 
+ *              1.5 - chooseBid() reworked
+ *              1.6 - polishing and refinments
+ *
+ * Known Issue: Game can take a long time to finish, from testing it has been 
+ *              known to go up to 400+ rounds. Cause and validity of issue is 
+ *              unknown. Perhaps cheat detection is too good/conservative?
  */
 package Q2;
 
@@ -9,46 +32,59 @@ import Q1.Hand;
 import Q1.Card;
 import Q1.Card.Suit;
 import java.util.Random;
-//import java.util.Iterator;
 
 /**
- *
  * @author ruw12gbu, 100036248
  */
 public class BasicStrategy implements Strategy {
 
     /**
-     * 
-     * @param bidCard
-     * @param playerHand
+     * Method to detect whether a player has to cheat or not. This is done by
+     * checking to see if there are any cards in the hand that are of the same
+     * rank as the previous bid, or of the next rank in the list. If any are
+     * found; it returns FALSE, else it returns TRUE.
+     * @param prevBid - Last bid played
+     * @param playerHand - Hand of the current player
      * @return - TRUE = need to cheat   FLASE = can play honestly
      */
     @Override
-    public boolean cheat(Bid bidCard, Hand playerHand) 
+    public boolean cheat(Bid prevBid, Hand playerHand) 
     {
-        int count = playerHand.countRank(bidCard.getRank());
+        //variable to hold the result of testing
         boolean cheat;
-        //testing and debugging
-        int totalCount = playerHand.countRank(bidCard.getRank()) + playerHand.countRank(bidCard.getRank().getNext());
 
-        if (count != 0) 
+        //Check for any cards of the bid rank
+        if (playerHand.countRank(prevBid.getRank()) != 0) 
         {
+            //Player can play honestly
             cheat = false;
         }
-        else if ((playerHand.countRank(bidCard.getRank().getNext()) != 0))
+        //Check for any cards of the next rank
+        else if ((playerHand.countRank(prevBid.getRank().getNext()) != 0))
         {
+            //Player can play honestly
             cheat = false;
         }
+        //If no cards of bid Rank or next rank are found
         else
         {
+            //Player can cheat
             cheat = true;
         }
-
-        //testing and debugging
-        System.out.println("Number of honest cards: " + totalCount);
         return cheat;
     }
 
+    /**
+     * Method to determine what card the player should play. This is done by 
+     * using the result from the cheat() method. If the cheat() method 
+     * determines the player must cheat then the player will cheat, selecting 
+     * a random card to cheat with. If honest play is determines then the
+     * maximum number of cards of the lowest rank will be played.
+     * @param prevBid - Last bid played
+     * @param playerHand - Hand of the current player
+     * @param isCheat - result from cheat() method
+     * @return 
+     */
     @Override
     public Bid chooseBid(Bid prevBid, Hand playerHand, boolean isCheat) 
     {
@@ -116,6 +152,8 @@ public class BasicStrategy implements Strategy {
             Card spadesCardNext = 
                     new Card(prevBid.getRank().getNext(), Suit.SPADES);
             
+            //Check for each of the cards of the bid Rank
+            //Add any cards found to honestHand
             if ((playerHand.remove(clubCard)) == true)
                 honestHand.add(clubCard);
             if ((playerHand.remove(heartCard)) == true)
@@ -125,6 +163,7 @@ public class BasicStrategy implements Strategy {
             if ((playerHand.remove(spadesCard)) == true)
                 honestHand.add(spadesCard);
             
+            //IF no cards found, check for cards of the next rank
             if (honestHand.handSize() == 0)
             {
                 if ((playerHand.remove(clubCardNext)) == true)
@@ -135,17 +174,34 @@ public class BasicStrategy implements Strategy {
                     honestHand.add(diaCardNext);
                 if ((playerHand.remove(spadesCardNext)) == true)
                     honestHand.add(spadesCardNext);
+                //set the bid rank to the be the next rank
                 honestRank = prevBid.getRank().getNext();
             }
             else
+                //use the same bid rank as before
                 honestRank = prevBid.getRank();
             
+            //Ensure cards are removed players hand (protects against 
+            //duplicate cards)
             playerHand.remove(honestHand);
+            
+            //Create a bid object that is honest
             bid = new Bid(honestHand, honestRank);
         }
+        //return the bid object
         return bid;        
     }
-
+    
+    /**
+     * Method to determine if a cheat should be called by a player object or
+     * not. A cheat is only called when it is certain another player is 
+     * cheating. This is done by checking the number of cards in the playersHand
+     * of a given rank and seeing if the number of cards of that rank being 
+     * played is impossible.
+     * @param playerHand - Hand of the Current Player
+     * @param bidCard - current bid being played
+     * @return 
+     */
     @Override
     public boolean callCheat(Hand playerHand, Bid bidCard) 
     {

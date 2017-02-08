@@ -4,10 +4,11 @@ import Q1.*;
 //import solution_part2.*;
 
 /*
- * You should implement a new class BasicStrategy that implements the Strategy interface provided.  Basic strategy should
-1.	Never cheat
-2.	Always play all the cards of the lowest value possible 
-*/
+ * You should implement a new class BasicStrategy that implements the Strategy 
+ * interface provided. Basic strategy should
+ * 1.	Never cheat
+ * 2.	Always play all the cards of the lowest value possible 
+ */
 
 public interface Strategy 
 {
@@ -35,6 +36,7 @@ public interface Strategy
 
     /**
      * 
+     * @param h the current players hand
      * @param b the current bid
      * @return true if this player is going to call cheat  on the last play b
      */
